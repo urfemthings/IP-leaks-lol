@@ -1,6 +1,6 @@
 @echo off
 color A
-title Ebola Puller
+title urfemthings
 setlocal
 
 rem save public ip as variable
